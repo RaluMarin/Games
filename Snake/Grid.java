@@ -1,4 +1,4 @@
-package snakeMe;
+package snake;
 
 import java.awt.Color;
 import java.awt.Font;
